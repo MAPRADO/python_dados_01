@@ -1,0 +1,5 @@
+# ignore all .csv files
+*.csv
+*.pdf
+id_dados
+id_dados.pub
